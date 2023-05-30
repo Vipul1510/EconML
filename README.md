@@ -16,3 +16,7 @@
 | Week 2  | Introduction to the bandits , different types of bandits|
 | Week 3  | Study of types of bandits, presenting contextual bandits|
 | week 4  | Creating bandit instance for adversarial and linear bandits,<br/> implementing EXP3-IX and LinUCB algorithm |
+
+### Submissions
+1. **Presentation on Contextual bandits** : Refer slides `SOC-presentation.pdf`
+2. **Assignment 1** : Refer [Assignment-1](https://github.com/Vipul1510/EconML/tree/main/Assignment1)
