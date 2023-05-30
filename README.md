@@ -12,7 +12,7 @@
 ### Contents
 | Week   | Work |
 | ----------- | ----------- |
-| Week 1  | [Evolution of Trust](https://ncase.me/trust/) and brushing up<br/> python and probability skills |
+| Week 1  | [Evolution of Trust](https://ncase.me/trust/), brushing up python coding skills and<br/> revisiting the probability |
 | Week 2  | Introduction to the bandits , different types of bandits|
 | Week 3  | Study of types of bandits, presenting contextual bandits|
 | week 4  | Creating bandit instance for adversarial and linear bandits,<br/> implementing EXP3-IX and LinUCB algorithm |
