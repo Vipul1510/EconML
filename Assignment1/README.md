@@ -1,8 +1,8 @@
 # Assignment 1
 
 ### Problem Statement
-1. Implement bandit instance for `adversarial bandits` and implement `EXP3-IX` algorithm and plot regret line plot
-2. Implement bandit instance for `linear bandits` and implement `LinUCB` algorithm and plot regret line plot
+1. Implement bandit instance for **adversarial bandits** and implement **EXP3-IX** algorithm and plot regret line plot
+2. Implement bandit instance for **linear bandits** and implement **LinUCB** algorithm and plot regret line plot
 
 ### Solution
 **Report :**<br/>
