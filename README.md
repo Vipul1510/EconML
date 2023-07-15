@@ -7,7 +7,9 @@
 | Param Rathour | 190070049 |
 
 ### Resources used
-[Resources](https://docs.google.com/document/d/1R0KfL6oBekUOqOxEWUxUip8srkx5_6J5n5zCtaHjadE/edit?usp=sharing)
+[Resources1](https://docs.google.com/document/d/1R0KfL6oBekUOqOxEWUxUip8srkx5_6J5n5zCtaHjadE/edit?usp=sharing)
+
+[Resources2](https://drive.google.com/drive/folders/1M4fVJQ2WuOFOnPSEtxc6iUW__yVp0YLg?usp=sharing)
 
 ### Contents
 | Week   | Work |
