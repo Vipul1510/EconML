@@ -16,6 +16,8 @@
 | Week 2  | Introduction to the bandits , different types of bandits|
 | Week 3  | Study of types of bandits, presenting contextual bandits|
 | week 4  | Creating bandit instance for adversarial and linear bandits,<br/> implementing EXP3-IX and LinUCB algorithm |
+| week 5-6| About real world problems in economic and Introduction to Auctions|
+| week-7 to now| Double auctions and Implementation of MAB for radio-spectrum double auction|
 
 ### Submissions
 1. **Presentation on Contextual bandits** : Refer slides `SOC-presentation.pdf`
